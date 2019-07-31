@@ -5,10 +5,9 @@
 #white_on_red {background-color:red;
 color:white;
 }
-<p> #going_to_the_right {
+#going_to_the_right {
   margin-left:50px;
 }
 
 <div id="white_on_red">While writing on a red background.</div>
 <div style="background-color:red;color:white;">White writing on a red background.</div>
-<div id="going_to_the_right"I perfer to be aside.</div>
