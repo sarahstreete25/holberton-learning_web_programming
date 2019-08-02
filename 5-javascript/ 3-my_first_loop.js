@@ -1,5 +1,5 @@
-var count = 0;
-while (count < 11) {
-  console.log(count);
-  count++;
+var i = 0;
+while (i < 11) {
+  console.log(i);
+  i++;
 }
