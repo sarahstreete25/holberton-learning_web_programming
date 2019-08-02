@@ -1,2 +1,1 @@
-"Betty Holberton"
-"Betty Holberton"
+console.log("Hello world!")
